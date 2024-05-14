@@ -1,0 +1,4 @@
+- [ ] add assets to [assets](assets/)
+- [ ] update link in [README.md](README.md)
+- [ ] update description in [README.md](README.md)
+- [ ] update images in [presentation](presentation/)
